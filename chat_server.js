@@ -1,9 +1,4 @@
-/*
-*프로그램 소개, 사용법 정리
-*채팅 플로우 정리
-*캡쳐이미지 정리
-*한계점 개선방향 정리
-*/
+
 var mongo = require('mongodb').MongoClient,
 	client = require('socket.io').listen(8080).sockets; //create connection socket, port 8080
 var mydb;
