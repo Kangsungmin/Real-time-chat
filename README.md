@@ -7,7 +7,7 @@ Develop a real-time chat web.
 
 Environment
 -------------
-* Node.js
+* Node.js(socket.io)
 * Javascript
 * MongoDB
 * HTML
