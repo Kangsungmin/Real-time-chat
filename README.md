@@ -1,4 +1,4 @@
-# Real-time web chat
+# Real-time chat
 
 Motivation
 -------------
