@@ -23,7 +23,3 @@ Screenshots
 
 
 
-
-Creator
--------------
-* Sung-Min Kang: https://www.facebook.com/kang.sungmin.733
